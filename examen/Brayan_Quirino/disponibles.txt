@@ -1,0 +1,2 @@
+{'ano': 1980, 'metros': 120, 'habitaciones': 4, 'garaje': False, 'zona': 'A', 'precio': 82600}
+{'ano': 2015, 'metros': 90, 'habitaciones': 2, 'garaje': False, 'zona': 'A', 'precio': 94000}
